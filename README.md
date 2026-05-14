@@ -41,8 +41,4 @@ This system automates the traditional auditing workflow by deploying specialized
 └── README.md            # Project documentation
 ```
 ## Installations
-- **pip install request tavity pdfplumber openai
-
-## Run code
-- ** Engine test: ```python t1.py "company_name" --pdf --peer-pdf --ai-api-url --ai-api-key --model --tc-api-key```
-- ** Complete application(+gui): ```python gui_runner.py```
+- **Download file Audit_agent.exe in releases
